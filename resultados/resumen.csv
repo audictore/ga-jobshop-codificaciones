@@ -1,0 +1,9 @@
+﻿metodo;mejor;media;peor;desv_est;mediana;brecha_media_%;gen_media_mejor;tiempo_medio_ms;corridas_en_cota
+Binaria;619;639.73;671;11.48;637.5;11.45;162.2;449.9;0
+Permutación con repetición;609;614.43;627;4.37;613.0;7.04;87.2;364.1;0
+Llaves aleatorias (real);610;628.30;653;9.75;625.0;9.46;137.1;344.2;0
+Búsqueda aleatoria;672;684.57;694;6.27;686.0;19.26;141.1;462.3;0
+Cota inferior;574
+Regla SPT;921
+Regla MWKR;728
+Orden de trabajos;832
