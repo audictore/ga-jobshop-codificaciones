@@ -1,0 +1,121 @@
+﻿metodo;corrida;semilla;makespan;generacion_mejor;tiempo_ms;evaluaciones
+Binaria;1;1000;619;164;458;29500
+Binaria;2;1001;648;143;442;29500
+Binaria;3;1002;634;234;444;29500
+Binaria;4;1003;638;215;504;29500
+Binaria;5;1004;626;84;447;29500
+Binaria;6;1005;633;155;433;29500
+Binaria;7;1006;634;285;430;29500
+Binaria;8;1007;643;139;455;29500
+Binaria;9;1008;630;300;487;29500
+Binaria;10;1009;629;259;461;29500
+Binaria;11;1010;671;282;453;29500
+Binaria;12;1011;660;75;425;29500
+Binaria;13;1012;648;189;431;29500
+Binaria;14;1013;650;43;442;29500
+Binaria;15;1014;631;256;445;29500
+Binaria;16;1015;651;21;437;29500
+Binaria;17;1016;630;79;472;29500
+Binaria;18;1017;648;60;432;29500
+Binaria;19;1018;628;156;460;29500
+Binaria;20;1019;629;180;456;29500
+Binaria;21;1020;634;142;418;29500
+Binaria;22;1021;637;266;446;29500
+Binaria;23;1022;652;49;424;29500
+Binaria;24;1023;645;84;437;29500
+Binaria;25;1024;631;59;455;29500
+Binaria;26;1025;647;162;536;29500
+Binaria;27;1026;643;250;457;29500
+Binaria;28;1027;647;109;435;29500
+Binaria;29;1028;628;149;441;29500
+Binaria;30;1029;648;276;435;29500
+Permutación con repetición;1;1000;617;43;416;29500
+Permutación con repetición;2;1001;612;97;316;29500
+Permutación con repetición;3;1002;612;37;342;29500
+Permutación con repetición;4;1003;611;35;365;29500
+Permutación con repetición;5;1004;613;277;329;29500
+Permutación con repetición;6;1005;610;158;404;29500
+Permutación con repetición;7;1006;615;66;399;29500
+Permutación con repetición;8;1007;622;39;350;29500
+Permutación con repetición;9;1008;612;66;348;29500
+Permutación con repetición;10;1009;612;56;337;29500
+Permutación con repetición;11;1010;616;152;345;29500
+Permutación con repetición;12;1011;609;185;355;29500
+Permutación con repetición;13;1012;615;41;405;29500
+Permutación con repetición;14;1013;613;190;340;29500
+Permutación con repetición;15;1014;614;170;334;29500
+Permutación con repetición;16;1015;611;54;366;29500
+Permutación con repetición;17;1016;612;37;410;29500
+Permutación con repetición;18;1017;626;47;329;29500
+Permutación con repetición;19;1018;614;34;399;29500
+Permutación con repetición;20;1019;618;43;384;29500
+Permutación con repetición;21;1020;614;38;384;29500
+Permutación con repetición;22;1021;627;163;317;29500
+Permutación con repetición;23;1022;612;166;364;29500
+Permutación con repetición;24;1023;621;91;364;29500
+Permutación con repetición;25;1024;614;28;422;29500
+Permutación con repetición;26;1025;612;23;331;29500
+Permutación con repetición;27;1026;612;52;393;29500
+Permutación con repetición;28;1027;612;37;381;29500
+Permutación con repetición;29;1028;612;145;380;29500
+Permutación con repetición;30;1029;613;46;315;29500
+Llaves aleatorias (real);1;1000;624;64;357;29500
+Llaves aleatorias (real);2;1001;624;123;372;29500
+Llaves aleatorias (real);3;1002;630;142;366;29500
+Llaves aleatorias (real);4;1003;624;300;357;29500
+Llaves aleatorias (real);5;1004;628;131;356;29500
+Llaves aleatorias (real);6;1005;614;204;357;29500
+Llaves aleatorias (real);7;1006;644;247;330;29500
+Llaves aleatorias (real);8;1007;634;39;330;29500
+Llaves aleatorias (real);9;1008;622;64;342;29500
+Llaves aleatorias (real);10;1009;653;178;318;29500
+Llaves aleatorias (real);11;1010;621;143;371;29500
+Llaves aleatorias (real);12;1011;632;192;333;29500
+Llaves aleatorias (real);13;1012;610;130;373;29500
+Llaves aleatorias (real);14;1013;641;116;329;29500
+Llaves aleatorias (real);15;1014;619;114;333;29500
+Llaves aleatorias (real);16;1015;626;106;345;29500
+Llaves aleatorias (real);17;1016;630;278;366;29500
+Llaves aleatorias (real);18;1017;623;199;353;29500
+Llaves aleatorias (real);19;1018;624;261;318;29500
+Llaves aleatorias (real);20;1019;620;107;330;29500
+Llaves aleatorias (real);21;1020;636;48;318;29500
+Llaves aleatorias (real);22;1021;633;177;346;29500
+Llaves aleatorias (real);23;1022;640;36;339;29500
+Llaves aleatorias (real);24;1023;641;238;366;29500
+Llaves aleatorias (real);25;1024;623;97;334;29500
+Llaves aleatorias (real);26;1025;631;80;339;29500
+Llaves aleatorias (real);27;1026;624;52;334;29500
+Llaves aleatorias (real);28;1027;620;62;360;29500
+Llaves aleatorias (real);29;1028;617;136;332;29500
+Llaves aleatorias (real);30;1029;641;48;323;29500
+Búsqueda aleatoria;1;1000;680;38;453;29500
+Búsqueda aleatoria;2;1001;689;135;457;29500
+Búsqueda aleatoria;3;1002;688;11;458;29500
+Búsqueda aleatoria;4;1003;687;140;461;29500
+Búsqueda aleatoria;5;1004;686;239;459;29500
+Búsqueda aleatoria;6;1005;675;125;458;29500
+Búsqueda aleatoria;7;1006;678;48;452;29500
+Búsqueda aleatoria;8;1007;682;3;452;29500
+Búsqueda aleatoria;9;1008;690;213;466;29500
+Búsqueda aleatoria;10;1009;685;31;477;29500
+Búsqueda aleatoria;11;1010;675;113;456;29500
+Búsqueda aleatoria;12;1011;689;228;454;29500
+Búsqueda aleatoria;13;1012;694;182;456;29500
+Búsqueda aleatoria;14;1013;694;80;453;29500
+Búsqueda aleatoria;15;1014;678;151;450;29500
+Búsqueda aleatoria;16;1015;691;249;564;29500
+Búsqueda aleatoria;17;1016;691;240;461;29500
+Búsqueda aleatoria;18;1017;679;69;455;29500
+Búsqueda aleatoria;19;1018;692;21;457;29500
+Búsqueda aleatoria;20;1019;682;75;454;29500
+Búsqueda aleatoria;21;1020;674;288;457;29500
+Búsqueda aleatoria;22;1021;679;172;456;29500
+Búsqueda aleatoria;23;1022;687;272;457;29500
+Búsqueda aleatoria;24;1023;681;89;470;29500
+Búsqueda aleatoria;25;1024;684;161;485;29500
+Búsqueda aleatoria;26;1025;689;163;472;29500
+Búsqueda aleatoria;27;1026;689;232;457;29500
+Búsqueda aleatoria;28;1027;686;264;454;29500
+Búsqueda aleatoria;29;1028;691;35;454;29500
+Búsqueda aleatoria;30;1029;672;166;454;29500
